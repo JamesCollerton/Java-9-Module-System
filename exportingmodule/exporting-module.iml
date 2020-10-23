@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_9">
+    <output url="file://$MODULE_DIR$/../exportingmodule/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../exportingmodule/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../exportingmodule">
+      <sourceFolder url="file://$MODULE_DIR$/../exportingmodule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../exportingmodule/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../exportingmodule/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../exportingmodule/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,3 @@
+module importingmodule {
+    requires exportingmodule;
+}
